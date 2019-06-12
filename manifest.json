@@ -1,9 +1,11 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "Winter Trees",
+    "short_name": "Winter",
+    "description": "Take a look at our winter 360 degree view!",
+
     "scope": ".",
-    "start_url": "/pwa-starter",
+    "start_url": "/pwa-final",
+
     "display": "standalone",
     "orientation": "portrait", 
     "background_color": "#ffffff",
